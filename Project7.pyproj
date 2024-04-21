@@ -24,6 +24,10 @@
     <Compile Include="..\OneDrive\Документы\8ой сем\проект 10 класс\Project7.py">
       <Link>Project7.py</Link>
     </Compile>
+    <Compile Include="Project7.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

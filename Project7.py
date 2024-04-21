@@ -34,6 +34,7 @@ import numpy as np
 import pyautogui
 #import imutils
 #import cv2
+from cv2 import cv2
 
 class ChartWidget(QWidget):
     def __init__(self, model, tabWidget, parent=None):
